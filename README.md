@@ -1,7 +1,8 @@
-PickViewFor2D,是在NumberPickerView的代码上添加了部分属性
-1、可以自定义item高度
-2、可以设置选中的item的背景颜色
-xml使用方式如下：
+PickViewFor2D,是在NumberPickerView的代码上添加了部分属性<br>
+1、可以自定义item高度<br>
+2、可以设置选中的item的背景颜色<br>
+xml使用方式如下：<br>
+```xml
 <cn.carbswang.android.numberpickerview.library.NumberPickerView
         android:id="@+id/picker"
         android:layout_width="wrap_content"
@@ -20,5 +21,9 @@ xml使用方式如下：
         app:npv_ItemHeight="55dip"
         app:npv_CenterItemBgColor="@color/colorAccent"
         app:npv_WrapSelectorWheel="true"/>
-具体详细使用请参照NumberPickerView，链接地址：https://github.com/Carbs0126/NumberPickerView
+        <br>
+```
+具体详细使用请参照NumberPickerView<br>
+链接地址：https://github.com/Carbs0126/NumberPickerView
+<br>
 本备份个人爱好，如果对原版有侵犯，请联系我邮箱bxfx111@163.com，我会做处理。
